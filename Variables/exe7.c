@@ -5,9 +5,9 @@ int main() {
     
     printf("1er Nombre: ");
     scanf("%f", &a);
-    printf("2éme Nombre: ");
+    printf("2eme Nombre: ");
     scanf("%f", &b);
-    printf("3éme Nombre: ");
+    printf("3eme Nombre: ");
     scanf("%f", &c);
     
     moyenne = (a*2 + b*3 + c*5) / 10;
